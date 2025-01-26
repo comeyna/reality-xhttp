@@ -1,5 +1,9 @@
 # Reality + Xhttp
 
+可以在 codespaces https://github.com/codespaces 中进行编译测试。
+
+然后登陆 docker push 上传到仓库
+
 手动操作，加深理解。
 
 构建完成后，填上 IP 就可以使用。
