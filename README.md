@@ -31,7 +31,7 @@ services:
 ## 配置信息
 
 ```bash
-vless://3c94c054-dc6f-4132-9888-5c60b81414b3@ip:40000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=mKj4w7jYOQNKYblmZxxAz8gcDxg36sxMw4XCsxbHczk&type=tcp&headerType=none#%E8%87%AA%E5%AE%9A%E4%B9%89
+vless://0d313615-60c3-4978-9748-92ff453018a6@192.227.152.230:40002?encryption=none&security=reality&sni=note.nnc.life&fp=chrome&pbk=RgtyXjg_wMpoX4W9COE9KOuxiVFEjFUF6cD6X32wrkA&sid=b1e0&spx=%2F&type=xhttp&path=%2F0d313615&mode=auto#xhttp-c
 ```
 
 ## 修改配置
@@ -41,7 +41,7 @@ vless://3c94c054-dc6f-4132-9888-5c60b81414b3@ip:40000?encryption=none&flow=xtls-
  修改后需要重启容器
 
 ```bash
-docker exec -it xray_reality sh
+docker exec -it xray_xhttp sh
 
 UUID="$(/xray uuid)" && echo "UUID: $UUID"
 
