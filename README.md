@@ -13,6 +13,7 @@
 ## 构建
 
 ```
+git clone https://github.com/comeyna/reality-xhttp
 docker build -t xray:xhttp .
 ```
 
