@@ -50,4 +50,4 @@ UUID="$(/xray uuid)" && echo "UUID: $UUID"
 
 ## 参考
 
-https://github.com/wulabing/xray_docker
+从 3x-ui 拿出来的配置单，目前还不知道是否有什么缺陷。脱离！
