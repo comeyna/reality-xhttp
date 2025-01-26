@@ -31,7 +31,7 @@ services:
 ## 配置信息
 
 ```bash
-vless://0d313615-60c3-4978-9748-92ff453018a6@192.227.152.230:40002?encryption=none&security=reality&sni=note.nnc.life&fp=chrome&pbk=RgtyXjg_wMpoX4W9COE9KOuxiVFEjFUF6cD6X32wrkA&sid=b1e0&spx=%2F&type=xhttp&path=%2F0d313615&mode=auto#xhttp-c
+vless://36f68b25-5d7d-46fb-a8c3-392581a3f6c9@ip:40010?encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=RgtyXjg_wMpoX4W9COE9KOuxiVFEjFUF6cD6X32wrkA&sid=b1e0&spx=%2F&type=xhttp&path=%2F0d313615&mode=auto#xhttp-c-clone
 ```
 
 ## 修改配置
