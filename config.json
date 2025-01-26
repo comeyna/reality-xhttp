@@ -88,7 +88,6 @@
           "xPaddingBytes": "100-1000"
         }
       },
-      "tag": "inbound-50001",
       "sniffing": {
         "enabled": true,
         "destOverride": [
