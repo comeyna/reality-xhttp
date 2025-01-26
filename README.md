@@ -48,6 +48,6 @@ UUID="$(/xray uuid)" && echo "UUID: $UUID"
 /xray x25519 >/key && PRIVATEKEY=$(cat /key | grep "Private" | awk -F ': ' '{print $2}') && PUBLICKEY=$(cat /key | grep "Public" | awk -F ': ' '{print $2}') && echo "Private key: $PRIVATEKEY" && echo "Public key: $PUBLICKEY"
 ```
 
-## 参考
+## 总结
 
-从 3x-ui 拿出来的配置单，目前还不知道是否有什么缺陷。脱离！
+效果实现了，但没有系统的学习过，缺乏确定性。
