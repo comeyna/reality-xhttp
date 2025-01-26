@@ -1,0 +1,11 @@
+services:
+  xray_xhttp:
+    image: xray:xhttp
+    container_name: xray_xhttp
+    restart: always
+    ports:
+      - "40010:443"
+    logging:
+      options:
+        max-size: "10m"
+        max-file: "3"
