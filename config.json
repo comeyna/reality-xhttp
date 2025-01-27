@@ -92,8 +92,7 @@
         "destOverride": [
           "http",
           "tls",
-          "quic",
-          "fakedns"
+          "quic"
         ],
         "metadataOnly": false,
         "routeOnly": false
