@@ -59,4 +59,6 @@ UUID="$(/xray uuid)" && echo "UUID: $UUID"
 
 ## 总结
 
-效果实现了，但没有系统的学习过，缺乏确定性。
+原来都有，参照写就行！
+
+https://github.com/lxhao61/integrated-examples/tree/main
